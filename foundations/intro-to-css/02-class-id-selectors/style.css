@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.odd {
+    background-color: peachpuff;
+    font-family: Verdana, sans-serif;
+}
+
+.medium-font {
+    font-size: 26px;
+}
+
+#second-item{
+    font-size: 36px;
+    color: blue;
+}
+
+#fourth-item {
+    background-color: rgb(124, 152, 124);
+    font-weight: bold;
+}
